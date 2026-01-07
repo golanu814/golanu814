@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi! I'm Pranav! I'm a senior/fast track student at UT Dallas who is passionate about using software development, cloud computing, artificial intelligence, and machine learning to create scalable and secure applications that can help those in need!
 
+I'm currently working as a Student Developer at UT Dallas's Office of Information Technology! In my spare time, I enjoy building and working with different technologies to build interesting and innovative projects! :)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranavgollapudi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anupragol05@gmail.com) 
