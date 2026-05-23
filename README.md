@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Pranav! I'm a senior/fast track student at UT Dallas who is passionate about using software development, cloud computing, artificial intelligence, and machine learning to create scalable and secure applications that can help those in need!
+Hi, I'm Pranav! I'm a masters student at UT Dallas who is passionate about using software development, cloud computing, artificial intelligence, and machine learning to create scalable and secure applications that can help those in need!
 
 I'm currently working as a Student Developer at UT Dallas's Office of Information Technology! In my spare time, I enjoy working with different technologies to build interesting and innovative projects, some of which can be found in my pins below! :)
 
